@@ -1,0 +1,37 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\GTL-CC-001\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express
+
+PATH: 
+  C:\Users\GTL-CC-001\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\GTL-CC-001\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\HP\IdrsOCR_15.2.10.1114;C:\Program Files (x86)\dotnet;C:\Program Files\dotnet;C:\Program Files\Cloud Foundry;C:\Program Files\Git\cmd;C:\Windows\System32;C:\Windows\System32\cmd.exe;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\nodejs;C:\Users\GTL-CC-001\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\GTL-CC-001\AppData\Local\Programs\Python\Python38-32;C:\Users\GTL-CC-001\AppData\Local\Microsoft\WindowsApps;C:\Users\GTL-CC-001\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\heroku\bin;C:\Users\GTL-CC-001\.dotnet\tools;C:\Users\GTL-CC-001\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\GTL-CC-001\.deno\bin;C:\flutter\bin;C:\Users\GTL-CC-001\AppData\Local\Microsoft\WindowsApps;C:\Users\GTL-CC-001\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  17.6.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect EHOSTUNREACH 104.16.26.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1158:16)
+
+npm manifest: 
+  {
+    "name": "day-3",
+    "version": "1.0.0",
+    "description": "My first API",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Priscilla Abbam",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
